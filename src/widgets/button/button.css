@@ -1,0 +1,25 @@
+button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: #4c8df7;
+  color: #ffffff;
+  border-radius: 2px;
+  text-align: center;
+  font-weight: bold;
+  height: 30px;
+  outline: none;
+  padding: 0 20px;
+  border: none;
+  line-height: normal;
+}
+  
+button:hover {
+  background: #4493ff;
+  box-shadow: 0 2px 4px 0 rgba(108, 170, 255, 0.58);
+}
+
+button:active {
+  box-shadow: 0 2px 4px 0 rgba(108, 170, 255, 0.58);
+}
