@@ -64,7 +64,7 @@ class NewsAnalysisVisualizer extends React.Component {
         provider: ''
       }
     } else {
-      let rate = (data.details[Object.keys(data.details)[0]] * 100).toFixed(2)
+      let rate = (Object.values(data.details).sort().reverse()[0] * 100).toFixed(2)
       formattedData = {
         position: data.position,
         value: `${rate}%`,
