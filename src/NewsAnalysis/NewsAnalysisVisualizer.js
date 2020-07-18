@@ -19,9 +19,9 @@ class NewsAnalysisVisualizer extends React.Component {
       { id: 'comercio', value: 'El Comercio'},
       { id: 'universo', value: 'El Universo'},
       { id: 'vistazo', value: 'Vistazo'},
-      { id: 'hora', value: 'La Hora'},
+      { id: 'expreso', value: 'El Expreso'},
       { id: 'telegrafo', value: 'El Telégrafo'},
-      { id: 'diario', value: 'El Diario'}
+      { id: 'mercurio', value: 'El Mercurio'}
     ]
   }
   
