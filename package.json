@@ -38,7 +38,7 @@
     "cldr-data": "^36.0.0",
     "globalize": "^1.5.0",
     "iana-tz-data": "^2019.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react-widgets": "^4.5.0",
     "react-widgets-globalize": "^5.0.21"
   }
