@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-combobox": "^0.1.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-widgets-moment": "^4.0.28"
   },
   "scripts": {
@@ -35,10 +35,10 @@
     ]
   },
   "devDependencies": {
-    "cldr-data": "^36.0.0",
+    "cldr-data": "^36.0.1",
     "globalize": "^1.5.0",
     "iana-tz-data": "^2019.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "react-widgets": "^4.5.0",
     "react-widgets-globalize": "^5.0.21"
   }
