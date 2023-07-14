@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "cldr-data": "^36.0.0",
+    "cldr-data": "^36.0.1",
     "globalize": "^1.5.0",
     "iana-tz-data": "^2019.1.0",
     "node-sass": "^4.14.1",
